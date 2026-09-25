@@ -22,6 +22,10 @@ Download:
 
 Extract the ZIP and open the included `.app` bundle.
 
+## Screenshots
+
+![In-Game Screenshot](screenshots/inGameImage.png)
+
 ## Overview
 
 This project was built in Unity as a small first-person shooting and aim-training environment.
